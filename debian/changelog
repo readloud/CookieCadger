@@ -1,0 +1,14 @@
+cookie-cadger (1.06-1kali1) kali-dev; urgency=medium
+
+  * Use java8 instead of default java
+  * Use debhelper 11
+  * Bump Standards-Version to 4.2.1
+  * Update Maintainer and Uploaders fields
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 28 Nov 2018 13:46:04 +0100
+
+cookie-cadger (1.06-1kali0) kali; urgency=low
+
+  * Initial release (Closes: 0000269)
+
+ -- Devon Kearns <dookie@kali.org>  Thu, 03 Oct 2013 12:06:34 -0600

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+ARCH=$(dpkg --print-architecture)
+
+cd /usr/share/cookie-cadger/
+exec /usr/lib/jvm/java-8-openjdk-$ARCH/jre/bin/java -jar CookieCadger-1.06.jar "$@"

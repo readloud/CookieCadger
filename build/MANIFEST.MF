@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ browsermob-proxy-2.0-beta-6.jar jetty-util-7.3.0.v
+ 20110203.jar selenium-server-standalone-2.40.0.jar sqlite-jdbc-3.7.2.
+ jar mysql-connector-java-5.1.24-bin.jar
+Class-Path: .
+Rsrc-Main-Class: com.cookiecadger.Program
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
